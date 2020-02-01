@@ -2,7 +2,8 @@
 title: "R Markdown TEst"
 author: "C Mellor"
 date: "01/02/2020"
-output: github_document
+output:
+  github_document
   
 ---
 
